@@ -1,0 +1,10 @@
+.imgGallery {
+  list-style: none;
+  padding: 0px;
+}
+
+.img {
+  width: 100%;
+  height: 260px;
+  object-fit: cover;
+}

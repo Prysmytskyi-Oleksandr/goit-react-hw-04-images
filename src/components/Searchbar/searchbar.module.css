@@ -1,0 +1,35 @@
+.searchbar {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 100%;
+  background-color: rgb(71, 71, 170);
+}
+
+.form {
+  display: flex;
+  padding: 1px;
+  justify-content: center;
+  margin: auto;
+  width: 600px;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.button {
+  height: 38px;
+  width: 38px;
+  background-image: url(../../Icons/search_find.png);
+  border: none;
+  cursor: pointer;
+  border: none;
+  background-size: 50%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.input {
+  width: 100%;
+  font-size: 16px;
+  border: none;
+  outline: none;
+}
